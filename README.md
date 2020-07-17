@@ -1,6 +1,6 @@
 ## whoami
 
-Kim Carter:  Providing Software Engineers with the confidence needed to produce software with the right level of security
+Kim Carter: &nbs; Providing Software Engineers with the confidence needed to produce software with the right level of security
 
 <br>
 
