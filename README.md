@@ -1,6 +1,6 @@
 ## whoami
 
-Kim Carter
+Kim Carter: Engineering solutions to provide Software Engineers with the confidence they need to produce software with the right level of security
 
 ## where am i
 
