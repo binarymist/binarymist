@@ -8,7 +8,7 @@ Kim Carter
 * [@binarymist](https://twitter.com/binarymist)
 * [@binarymistbooks](https://twitter.com/binarymistbooks)
 * [@purpleteamlabs](https://twitter.com/purpleteamlabs)
-* gitlab [purpleteam-labs](https://gitlab.com/purpleteam-labs)
+* [purpleteam-labs](https://purpleteam-labs.com/)
 * [Kim's Books](https://binarymist.io/publication/kims-selected-publications/)
 * [Kim's Podcasts](https://binarymist.io/publication/#8)
 * [Kim's Blog](https://binarymist.blog)
