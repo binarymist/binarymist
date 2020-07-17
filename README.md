@@ -1,16 +1,17 @@
-### Hi there 👋
+## whoami
 
-<!--
-**binarymist/binarymist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Kim Carter
 
-Here are some ideas to get you started:
+## where am i
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* https://binarymist.io
+* [@binarymist](https://twitter.com/binarymist)
+* [@binarymistbooks](https://twitter.com/binarymistbooks)
+* [@purpleteamlabs](https://twitter.com/purpleteamlabs)
+* gitlab [purpleteam-labs](https://gitlab.com/purpleteam-labs)
+* [Kim's Books](https://binarymist.io/publication/kims-selected-publications/)
+* [Kim's Podcasts](https://binarymist.io/publication/#8)
+* [Kim's Blog](https://binarymist.blog)
+* [InfoSecNZ Slack](https://github.com/binarymist/InfoSecNZ)
+* [Talks & Workshops](https://binarymist.io/talk/)
+* [LinkedIn](https://nz.linkedin.com/in/carterkim)
