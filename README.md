@@ -1,6 +1,6 @@
 ## whoami
 
-Kim Carter: &nbsp; Providing Software Engineers with the confidence needed to produce software with the right level of security
+Kim Carter: &nbsp; 20 years experience providing Software Engineers with the confidence needed to produce software with the right level of security
 
 <br>
 
