@@ -8,6 +8,9 @@ Kim Carter: &nbsp; 20 years experience providing Software Engineering Teams with
 
 ## where am i
 
+<img align="right" width="500" height="375" src="https://user-images.githubusercontent.com/2862029/88914146-48792080-d2b6-11ea-8b98-7b3dad629232.jpeg">
+&nbsp;
+
 * https://binarymist.io
 * [@binarymist](https://twitter.com/binarymist)
 * [@binarymistbooks](https://twitter.com/binarymistbooks)
@@ -20,3 +23,6 @@ Kim Carter: &nbsp; 20 years experience providing Software Engineering Teams with
 * [InfoSecNZ Slack](https://github.com/binarymist/InfoSecNZ)
 * [OWASP NZ](https://owasp.org/www-chapter-new-zealand/)
 * [LinkedIn](https://nz.linkedin.com/in/carterkim)
+* Coding in a cave ->
+
+
