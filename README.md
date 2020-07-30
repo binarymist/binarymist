@@ -9,7 +9,7 @@ Kim Carter: &nbsp; 20 years experience providing Software Engineering Teams with
 ## where am i
 
 <img align="right" width="467" height="350" src="https://user-images.githubusercontent.com/2862029/88914146-48792080-d2b6-11ea-8b98-7b3dad629232.jpeg">
-&nbsp;&nbsp;&nbsp;&nbsp;
+<br><br>
 
 * https://binarymist.io
 * [@binarymist](https://twitter.com/binarymist)
