@@ -1,6 +1,6 @@
 ## whoami
 
-Kim Carter: &nbsp; 20 years experience providing Software Engineering Teams with the confidence needed to produce software with the right level of security
+Kim Carter: &nbsp; 20+ years experience providing Software Engineering Teams with the confidence needed to produce software with the right level of security
 
 <br>
 
@@ -23,6 +23,6 @@ Kim Carter: &nbsp; 20 years experience providing Software Engineering Teams with
 * [InfoSecNZ Slack](https://github.com/binarymist/InfoSecNZ)
 * [OWASP NZ](https://owasp.org/www-chapter-new-zealand/)
 * [LinkedIn](https://nz.linkedin.com/in/carterkim)
-* Coding in a cave ->
+
 
 
