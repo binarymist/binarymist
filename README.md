@@ -19,7 +19,7 @@ Kim Carter: &nbsp; 20+ years experience providing Software Engineering Teams wit
 * [Kim's Books](https://binarymist.io/publication/kims-selected-publications/)
 * [Kim's Podcasts](https://binarymist.io/publication/#8)
 * [Kim's Blog](https://binarymist.blog)
-* [Talks & Workshops](https://binarymist.io/talk/)
+* [Talks & Workshops](https://binarymist.io/event/)
 * [InfoSecNZ Slack](https://github.com/binarymist/InfoSecNZ)
 * [OWASP NZ](https://owasp.org/www-chapter-new-zealand/)
 * [LinkedIn](https://nz.linkedin.com/in/carterkim)
