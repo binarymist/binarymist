@@ -4,7 +4,7 @@ Kim Carter: &nbsp; 20+ years experience providing Software Engineering Teams wit
 
 <br>
 
-![BinaryMistLimitedR](https://user-images.githubusercontent.com/2862029/87836459-3d9cb400-c8e4-11ea-8f51-81f910c8cd59.png)
+![BinaryMist_landscape](https://user-images.githubusercontent.com/2862029/121761027-c6b67c80-cb81-11eb-8af0-08137232ce9c.png)
 
 ## where am i
 
