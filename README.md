@@ -18,7 +18,7 @@ Kim Carter: &nbsp; 20+ years experience providing Software Engineering Teams wit
 * [purpleteam-labs](https://purpleteam-labs.com/)
 * [Kim's Books](https://binarymist.io/publication/kims-selected-publications/)
 * [Kim's Podcasts](https://binarymist.io/publication/#8)
-* [Kim's Blog](https://binarymist.blog)
+* [Kim's Blog](https://binarymist.io/blog)
 * [Talks & Workshops](https://binarymist.io/event/)
 * [InfoSecNZ Slack](https://github.com/binarymist/InfoSecNZ)
 * [OWASP NZ](https://owasp.org/www-chapter-new-zealand/)
