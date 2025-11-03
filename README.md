@@ -24,5 +24,5 @@ Kim Carter: &nbsp; 20+ years experience providing Software Engineering Teams wit
 * [OWASP NZ](https://owasp.org/www-chapter-new-zealand/)
 * [LinkedIn](https://nz.linkedin.com/in/carterkim)
 
-
+Actually I've gone surfing. I now build [Motorhomes for the discerning](https://www.epiclines.nz/motorhome/) and create (New Zealands Own Surf Accessories)(https://www.epiclines.nz/surf/)
 
